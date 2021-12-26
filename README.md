@@ -1,37 +1,31 @@
 # manster网易云音乐分析
 
 #### 介绍
-一个简单的网易云音乐大数据分析，采用 Saprk 框架进行分析，并以前端 vue 使用 ECharts
+一个简单的网易云音乐大数据分析，采用 Saprk 框架进行分析，并以前端 vue 使用 ECharts 作为展示
 
-#### 软件架构
-软件架构说明
+#### 环境
+
+jdk-1.8，scala-2.12.13，nodejs-12.1.0，hadoop-2.7.3
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  首先安装好以上环境(配到环境变量中)
+2.  使用 vscode 或者 webstorm 打开 music-demo 文件夹，输入 `npm install`, 然后 `npm run serve`
+3.  后端项目就是简单的一个一个单独的启动项，类似 javase 的单个程序，使用 idea 打开，下载 jar 包，一个一个进行运行即可
 
-#### 使用说明
+#### 样例
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![]()
 
-#### 参与贡献
+![]()
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![]()
 
+![]()
 
-#### 特技
+![]()
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![]()
+
+![]()
