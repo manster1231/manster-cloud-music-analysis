@@ -16,16 +16,16 @@ jdk-1.8，scala-2.12.13，nodejs-12.1.0，hadoop-2.7.3
 
 #### 样例
 
-![年龄分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/356A12DCE4FC405CBF34EFEE3D6C9E9A/29951)
+![年龄分布](./images/age.png)
 
-![城市分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/5FA6A4E262184107B7982D5FBC60BA05/29949)
+![城市分布](./images/city.png)
 
-![评论关键词](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/FB8D98A224B94BBE8D7F1222B3CA3C44/29947)
+![评论关键词](./images/keywords.png)
 
-![评论时间分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/0C4CCBF2E7A04BAF9CD3DC35D2138CA1/29945)
+![评论时间分布](./images/hour.png)
 
-![评论月份分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/1F08ACBD147B499AA9AA5FB4649CC3BC/29944)
+![评论月份分布](./images/month.png)
 
-![性别分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/17DB5FD1C1514CECB26962C63674E57E/29942)
+![性别分布](./images/gender.png)
 
-![会员分布](https://note.youdao.com/yws/public/resource/35796e417f43de542b482d01c9fbeb96/xmlnote/6F47E9DB7A294F99A922F477586287F6/29940)
+![会员分布](./images/vip.png)
